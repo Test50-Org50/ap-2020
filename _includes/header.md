@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# *[ITI CS50]({{ "/" | relative_url }})*
 
-Harvard University\\
-2019–2020
+Information Technology Institute\\
+2025–2026
